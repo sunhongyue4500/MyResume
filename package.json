@@ -1,0 +1,32 @@
+{
+  "name": "aresume",
+  "version": "1.0.0",
+  "description": "Wow, such a beautiful resume",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunhongyue4500/MyResume.git"
+  },
+  "keywords": [
+    "MyResume"
+  ],
+  "author": "hongyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunhongyue4500/MyResume/issues"
+  },
+  "homepage": "https://github.com/sunhongyue4500/MyResume",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2"
+  }
+}
